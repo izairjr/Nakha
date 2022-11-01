@@ -137,18 +137,9 @@
           </a>
         </div>
         <p class="u-align-center-lg u-align-center-md u-align-center-xl u-text u-text-1">Av. Dom Antônio 2100, Assis, SP</p>
+        <a href="https://www.instagram.com/nakha.fatec?r=nametag">
         <img class="u-image u-image-circle u-image-1" src="images/logo.jpg" alt="" data-image-width="1280" data-image-height="720">
-      </div></footer>
-    <section class="u-backlink u-clearfix u-grey-80">
-      <a class="u-link" href="https://nicepage.com/html-templates" target="_blank">
-        <span>HTML Template</span>
       </a>
-      <p class="u-text">
-        <span>created with</span>
-      </p>
-      <a class="u-link" href="https://nicepage.com/static-site-generator" target="_blank">
-        <span>Static Site Generator</span>
-      </a>. 
-    </section>
+      </div></footer>
   
 </body></html>
