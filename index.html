@@ -72,7 +72,7 @@
                   <h2 class="u-custom-font u-font-arial u-text u-text-2">
                     <br>Seu pedaço de marrocos, no Brasil.<br>
                   </h2>
-                  <p class="u-text u-text-3">&nbsp;Visamos trazer, divulgar e oferecer um contato com a cultura do povo marroquino, através de uma bebida tradicional do país , produzindo nosso produto chefe, Com carainho e cuidado com os ingredientes, respeitando a cultura que nos inspira, bem como os ingredientes, cultivamos localmente de forma organica, para proporcionar aos nossos clientes, uma experiencia!&nbsp;&nbsp;</p>
+                  <p class="u-text u-text-3">&nbsp;Visamos trazer, divulgar e oferecer um contato com a cultura do povo marroquino, através de uma bebida tradicional do país , produzindo nosso produto chefe, Com carinho e cuidado com os ingredientes, respeitando a cultura que nos inspira, bem como os ingredientes, cultivamos localmente de forma organica, para proporcionar aos nossos clientes, uma experiencia!&nbsp;&nbsp;</p>
                 </div>
               </div>
               <div class="u-align-center u-container-style u-image u-layout-cell u-right-cell u-size-30 u-size-xs-60 u-image-1" src="" data-image-width="630" data-image-height="350">
@@ -100,7 +100,7 @@
             <div class="u-container-style u-image u-list-item u-repeater-item u-shading u-image-1" data-image-width="864" data-image-height="1152">
               <div class="u-container-layout u-similar-container u-valign-top u-container-layout-1">
                 <h3 class="u-text u-text-default u-text-1">Menta</h3>
-                <p class="u-text u-text-default u-text-2">Toda a menta utilizada no processo de fabricação, tem origem organiza e é colhida antes do inicio do processo, para presservar o frescor.</p>
+                <p class="u-text u-text-default u-text-2">Toda a menta utilizada no processo de fabricação, tem origem organica e é colhida antes do inicio do processo, para presservar o frescor.</p>
               </div>
             </div>
             <div class="u-container-style u-image u-list-item u-repeater-item u-shading u-image-2" data-image-width="1200" data-image-height="1600">
