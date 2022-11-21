@@ -100,7 +100,7 @@
             <div class="u-container-style u-image u-list-item u-repeater-item u-shading u-image-1" data-image-width="864" data-image-height="1152">
               <div class="u-container-layout u-similar-container u-valign-top u-container-layout-1">
                 <h3 class="u-text u-text-default u-text-1">Menta</h3>
-                <p class="u-text u-text-default u-text-2">Toda a menta utilizada no processo de fabricação, tem origem organica e é colhida antes do inicio do processo, para presservar o frescor.</p>
+                <p class="u-text u-text-default u-text-2">Toda a menta utilizada no processo de fabricação, tem origem organica e é colhida antes do inicio do processo, para preservar o frescor.</p>
               </div>
             </div>
             <div class="u-container-style u-image u-list-item u-repeater-item u-shading u-image-2" data-image-width="1200" data-image-height="1600">
